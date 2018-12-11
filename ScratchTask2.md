@@ -1,4 +1,4 @@
-﻿# Analysis of BESTESTGAME's Scratch code
+﻿# Writeup of BESTESTGAME's Scratch code
 
 First things first: This project was very difficult for me. Some of the code is going to be rather ugly and sub-optimal as Scratch is a step back from what I'm used to. Second, I'm splitting this up by the entity that holds the script because there are a lot.
 
