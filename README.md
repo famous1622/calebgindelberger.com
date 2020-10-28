@@ -11,4 +11,4 @@ You can contact me at gindelberger.2@daytonstemschool.org.
 
 All code projects are under their respective licences.
 
-© 2018 Caleb Gindelberger (famous1622)
+© 2018-2020 Caleb Gindelberger (famous1622)
